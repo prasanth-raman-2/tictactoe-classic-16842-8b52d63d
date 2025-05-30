@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew test",
+    "working_directory": "/home/kavia/workspace/code-generation/tictactoe-classic-16842-8b52d63d/tic_tac_toe"
+}
